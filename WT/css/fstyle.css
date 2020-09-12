@@ -1,0 +1,27 @@
+
+
+
+
+
+h4{
+    color:blue;
+    font-size: 28px;
+    font-weight: bold;
+    font-kerning: auto;
+    margin-left: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    text-align: center;
+    motion: reverse;
+    margin-bottom: 60px;
+}
+h6{
+    color:red;
+    font-size: 18px;
+    font-weight: bold;
+    font-kerning: auto;
+    margin-left: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    text-align: center;
+    motion: reverse;
+    margin-bottom: 60px;
+}
